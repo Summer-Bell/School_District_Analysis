@@ -8,14 +8,15 @@ Based on the school district analysis the school board can make informed strateg
 This analysis has multiple deliverables that together will showcase performance trends and patterns.
 A school summary displayed in a table format will provide a high-level snapshot of the district's key metrices.
 For more in-depth analysis additional tables will be presented to show the highest and lowest performing schools, math and reading scores by grade, scores by school spending, scores by school size and scores by school type.
-The presentation of these metrics will show how different factors can impact standardized test results
+The presentation of these metrics will show how different factors can impact standardized test results.
+The original school district analysis result are in [PyCitySchools_Challenge_Testing.ipynb](PyCitySchools_Challenge_Testing.ipynb).
 
 ## School District Analysis Results
 There was evidence of academic dishonesty for Thomas High School (THS) ninth graders.
 To uphold the integrity of the standardized testing results the THS ninth grade math and reading scores were replaced with NaNs and the school district analysis was recompleted.
 The loc method was utilized to find and replace the 9th grade math and reading scores. 
 This is the code used for replacing reading scores 'student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (student_data_df["grade"] == "9th"),"reading_score"] = (np.nan)'.
-The school district analysis result are in [PyCitySchools.ipynb](PyCitySchools.ipynb).
+The school district analysis result are in [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb).
 School and Student Data was imported from [schools_complete.csv](Resources/schools_complete.csv) and [students_complete.csv](Resources/students_complete.csv)
 
 
