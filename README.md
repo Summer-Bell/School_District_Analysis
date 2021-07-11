@@ -9,7 +9,7 @@ This analysis has multiple deliverables that together will showcase performance 
 A school summary displayed in a table format will provide a high-level snapshot of the district's key metrices.
 For more in-depth analysis additional tables will be presented to show the highest and lowest performing schools, math and reading scores by grade, scores by school spending, scores by school size and scores by school type.
 The presentation of these metrics will show how different factors can impact standardized test results.
-The original school district analysis result are in [PyCitySchools_Challenge_Testing.ipynb](PyCitySchools_Challenge_Testing.ipynb).
+The original school district analysis result are in [PyCitySchools_Challenge_testing.ipynb](PyCitySchools_Challenge_testing.ipynb).
 
 ## School District Analysis Results
 There was evidence of academic dishonesty for Thomas High School (THS) ninth graders.
