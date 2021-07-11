@@ -21,18 +21,16 @@ School and Student Data was imported from [schools_complete.csv](Resources/schoo
 
 ### Impacts of replacing THS ninth grade math and reading scores with NaNs:
 - How is the district summary affected?
-	* The impact on the overall district summary was immaterial.
-	
-The % of Passing Math scores decreased from 75.0% to 74.8%. 
-The % of Passing Reading scores decreased from 85.8% to 85.7%. 
-The % of Overall Passing scores decreased from 65.2% to 64.9%. 
+	* The impact on the overall district summary was immaterial.	
+		- The % of Passing Math scores decreased from 75.0% to 74.8%. 
+		- The % of Passing Reading scores decreased from 85.8% to 85.7%. 
+		- The % of Overall Passing scores decreased from 65.2% to 64.9%. 
 
 - How is the school summary affected?
-	* The impact on the school summary for THS was significant.
-	
-The % of Passing Math scores increased from 66.9% to 93.2%. 
-The % of Passing Reading scores increased from 69.7% to 97.0%. 
-The % of Overall Passing scores increased from 65.1% to 90.63%.
+	* The impact on the school summary for THS was significant.	
+		- The % of Passing Math scores increased from 66.9% to 93.2%. 
+		- The % of Passing Reading scores increased from 69.7% to 97.0%. 
+		- The % of Overall Passing scores increased from 65.1% to 90.63%.
 
 	* No other data in the school summary was impacted. 
 	
